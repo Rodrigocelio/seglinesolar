@@ -2178,6 +2178,9 @@ textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
+    .woman { display: none;
+    }
+    
     .w-tab-link {
         display: block;
     }
