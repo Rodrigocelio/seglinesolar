@@ -5453,8 +5453,9 @@ figcaption {
     }
 
     .vectors-wrapper-2 {
-        height: 140px;
-        min-width: 120px;
+        height: 120px;
+        width: 100%;
+        min-width: 50px;
     }
 }
 
