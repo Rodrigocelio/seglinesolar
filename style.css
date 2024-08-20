@@ -42,4 +42,11 @@ h1 {
     background-color: #f1f1f1;
   }
   
+@media screen and (max-width: 492px) {
+  h1 {
+    font-size: 1.7em;
+    text-align: center;
+  }
+  
+}
   
